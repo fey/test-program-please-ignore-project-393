@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/fey/test-program-please-ignore-project-393/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/fey/test-program-please-ignore-project-393/actions)
